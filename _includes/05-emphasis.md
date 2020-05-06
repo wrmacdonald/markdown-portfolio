@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Favorite Tucson Coffee Shops
+1. **Exo**
+2. *Presta*
+3. Cartel
